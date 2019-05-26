@@ -1,3 +1,6 @@
 def parrot(string)
-  puts string + "Squawk!"
+  puts string
+  puts "Squawk!"
+  
+  return string
 end
